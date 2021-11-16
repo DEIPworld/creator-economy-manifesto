@@ -1,5 +1,8 @@
 Decentralized Creator Economy Manifesto v.0.1
 
+Live Document: (all changes then introduced here in the repo as pull-requests) 
+https://docs.google.com/document/d/1T8WRMFyi3RHINf6O_rcVr2x7aMuWQ2RibnCCxyTTI_U/edit?usp=sharing
+
 # Why are we building a creator economy protocol
 
 Like many other important and long-term projects, our protocol started with our own personal pain. We are creators, building a protocol for creators, which should be governed by creators.
